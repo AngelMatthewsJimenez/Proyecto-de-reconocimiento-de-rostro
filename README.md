@@ -1,7 +1,7 @@
 # Proyecto-de-reconocimiento-de-rostro
 app de reconocimiento de rostros
 
-este es un proyecto fianl e programcion tres,
+Este es un proyecto final de programcion 3,
 para usurlo debes crear un carpeta Data eh intalar las librerias 
 OpenCV
 imutils
